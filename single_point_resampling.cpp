@@ -10,7 +10,7 @@ int main()
     // Input FileName name hard coded because I could not get it to cin the file name.
     // Input FileName must be changed in the code to the name of the input file to get the desired result
     const char* inputFileName = "museum.raw";
-    const char* outputFileName = "resized_picture_question1e.raw";
+    const char* outputFileName = "resized_picture.raw";
     int originalWidth, originalHeight, newWidth, newHeight;
 
     /*cout << "Enter the name of the File with the extension" << endl;*/
